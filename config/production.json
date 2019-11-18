@@ -1,0 +1,6 @@
+{
+    "name": "Server Production",
+    "connectionString": "mongodb://localhost/MSKPRODDB",
+    "secret": "r^87dJ?PRwFGRFD7rbexMnBRt^#Wx^dJ3cv5LwC*+u%_ZbD+4kASfV?QavUCL$SpQvS9!%faSQ*XmpmJe&@Sw++KcVpkRvcg=a4pR5P@rUJ$9PsV_+7FM4L9TNc6Ny-BqR#ZHdm_A58Pcytqh=!qr5qTFC&eg8RFyat%^^aM?eHV3FMuBH&E&C@F2WAst2tGC6Cdx9VDG2TrsYg-S8FuKBTs-EpP-88cPswvzq6UeV$2fGZ=!HtUBEwxY%SbM2j2",    
+    "port": 4001
+}

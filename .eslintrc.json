@@ -1,0 +1,98 @@
+{
+    "env": {
+        "browser": true,
+        "es6": true,
+        "node": true,
+        "mocha": true
+    },
+    "extends": [
+        "airbnb",
+        "prettier"
+    ],
+    "globals": {
+        "Atomics": "readonly",
+        "SharedArrayBuffer": "readonly"
+    },
+    "parserOptions": {
+        "ecmaFeatures": {
+            "jsx": true
+        },
+        "ecmaVersion": 2018,
+        "sourceType": "module"
+    },
+    "plugins": [
+        "react",
+        "prettier"
+    ],
+    "parser": "babel-eslint",
+    "rules": {
+        "no-restricted-syntax": 0,
+        "linebreak-style": 0,
+        "indent": [
+            "error",
+            4
+        ],
+        "react/jsx-indent-props": [
+            2,
+            "first"
+        ],
+        "react/jsx-indent": 0,
+        "react/jsx-filename-extension": [
+            1,
+            {
+                "extensions": [
+                    ".js",
+                    ".jsx"
+                ]
+            }
+        ],
+        "import/no-extraneous-dependencies": [
+            "error",
+            {
+                "devDependencies": true,
+                "optionalDependencies": true,
+                "peerDependencies": true
+            }
+        ],
+        "no-underscore-dangle": 0,
+        "no-console": [
+            "error",
+            {
+                "allow": [
+                    "log",
+                    "warn",
+                    "error"
+                ]
+            }
+        ],
+        "global-require": 0,
+        "max-len": [
+            "error",
+            {
+                "code": 195,
+                "ignoreComments": true,
+                "ignoreTemplateLiterals": true
+            }
+        ],
+        "class-methods-use-this": 0,
+        "no-unused-expressions": [
+            "error",
+            {
+                "allowTernary": true
+            }
+        ],
+        "react/prefer-stateless-function": 0
+    },
+    "settings": {
+        "import/resolver": {
+            "node": {
+                "extensions": [
+                    ".js",
+                    ".jsx",
+                    ".json",
+                    ".native.js"
+                ]
+            }
+        }
+    }
+}

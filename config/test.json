@@ -1,0 +1,6 @@
+{
+    "name": "Server Test",
+    "connectionString": "mongodb://localhost/MSKTESTDB",
+    "secret": "e$J?CC4ZER9VXVDSgfJ!rJrzRj%DPsZN9kK$nrnLs=LwJ-VCu6YFE-Y^FAdjm8CQtBaJ&ac-eu5h5aQ2DGxV^FjPS%dnWx_SyD838_!KaF7zc5pD#ey8*?u9dmzq7xHDBDT98A3Dpsvq-Gc+4f7&QsMebrh@k-9M3Ym57ch%#9QAtJJN@afP46yq!@+xZLHCBs*J^bgGH?&!FQ!!n9w+AauyRSE6SAAwNPmcqmutc#@qauuY=t_zq3@Y-+T_Em4X",    
+    "port": 4100
+}

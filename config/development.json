@@ -1,0 +1,6 @@
+{
+    "name": "Server Developement",
+    "connectionString": "mongodb://localhost/MSKDEVDB",
+    "secret": "hSTFwWT+7uhjSxMUqn3zKQGWMcVC_bpjLFQ%=eqnfb8dbbx5?^X@e7n5QB$Gs!ELYEB8@ee=+s#-guVwavY#9-6Cyb7M+g6EsX_nHv?cD3SZYd9GzWxtp9a%yCXt#%*Ws7&SN7GSnkpp7KPgsr&@KLk*P3rv&b?FsF?awFn8Sw$s2^pu3jCy?zRM8V%B@4e*HDB9=eTUDkJ_d-!#RYxBmXLt*+rd9&BKyz3Ew^G7rLTZVs&ZTkDz3K^CfFhet!!S",    
+    "port": 4000
+}
